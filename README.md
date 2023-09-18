@@ -1,4 +1,4 @@
-# ### UTSUKUSHIKI HOME STORE REST API Simulated E-commerce App
+# UTSUKUSHIKI HOME STORE REST API Simulated E-commerce App
 
 ####  **What is Utsukushiki?** ( A simulated e-commerce App)
 
