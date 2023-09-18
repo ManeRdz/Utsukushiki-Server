@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "41vOAIXVh0O/2OzTGpn9Y7h+LQ7dQXvyQfLbBMRLL5I=",
+  "Source": "server",
+  "BasePath": "_content/server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "server\\wwwroot",
+      "Source": "server",
+      "ContentRoot": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\",
+      "BasePath": "_content/server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\images\\cocina-lg-a-gas-6-hornillas-rsg315t-removebg-preview.png",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\",
+      "BasePath": "_content/server",
+      "RelativePath": "images/cocina-lg-a-gas-6-hornillas-rsg315t-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cocina-lg-a-gas-6-hornillas-rsg315t-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\images\\csnr-086279078131-1-removebg-preview.png",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\",
+      "BasePath": "_content/server",
+      "RelativePath": "images/csnr-086279078131-1-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\csnr-086279078131-1-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\images\\D_NQ_NP_760442-MLA31581573322_072019-O-removebg-preview.png",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\",
+      "BasePath": "_content/server",
+      "RelativePath": "images/D_NQ_NP_760442-MLA31581573322_072019-O-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\D_NQ_NP_760442-MLA31581573322_072019-O-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\images\\Vitamix-65542-MP-removebg-preview.png",
+      "SourceId": "server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\broly\\source\\repos\\server\\server\\wwwroot\\",
+      "BasePath": "_content/server",
+      "RelativePath": "images/Vitamix-65542-MP-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Vitamix-65542-MP-removebg-preview.png"
+    }
+  ]
+}
